@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MiArbolGrafico">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MiArbolGrafico.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

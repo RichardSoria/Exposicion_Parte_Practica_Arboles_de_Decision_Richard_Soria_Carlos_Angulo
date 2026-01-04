@@ -1,0 +1,15 @@
+EDAD;NINOS;TIPO AUTO;SUBURBIO
+23;0;sedan;SI
+31;1;sports;NO
+36;1;sedan;NO
+25;2;truck;NO
+30;0;sports;NO
+36;0;sedan;NO
+25;0;sedan;SI
+36;1;truck;NO
+30;2;sedan;SI
+31;1;sedan;SI
+25;0;sports;NO
+45;1;sedan;SI
+23;2;sports;NO
+45;0;truck;SI
